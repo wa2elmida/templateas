@@ -1,0 +1,179 @@
+.div2
+{
+  background-image: url(1.jpg);
+  background-size: 100% 500px;
+}
+.div5
+{
+  margin: 80px;
+  position: relative;
+  width: 400px
+}
+.bt1
+{
+  margin-bottom:120px
+}
+
+.div6
+{
+  text-align: center;
+  background-color:rgb(21,27,84);
+}
+.dive
+{
+  margin-bottom: 40px;
+  margin-top: 20px
+}
+.dov
+{
+  width:30%;
+  margin: 1%;
+}
+body
+{
+  margin:50px;
+  background-color:#e4e4e4;
+}
+p
+{
+  color: white
+}
+
+.diva, .divb, .divc, .divf
+{
+padding: 15px;
+  display:inline-block;
+  width: 250px;
+  height: 300px;
+  margin: 2px;
+  color:black;
+  background-color: red;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+
+}
+
+@keyframes example {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:150px; top:0px;}
+  50%  {background-color:blue; left:150px; top:150px;}
+  75%  {background-color:green; left:0px; top:150px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+
+.divh
+{
+  display: inline-block;
+
+}
+.divg
+{
+  position:absolute;
+  display:inline-block;
+  width: 250px;
+  height: 400px;
+  color:black;
+  margin-left: 67%;
+  margin-right: 150px;
+  font-size: 18px;
+  color: black
+}
+.divo
+{
+  text-align: center;
+  font-size: 20px;
+  margin-left: 20px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  padding: 15px
+}
+.img
+{
+  position:absolute;
+  display:inline-block;
+  width: 300px;
+  height: 400px;
+  margin-left:70px;
+  margin-right: 150px;
+  margin-top: 50px;
+  opacity: 80%;
+}
+.divg2
+{
+  position:relative;
+  display:inline-block;
+  width: 400px;
+  height: 400px;
+  color:black;
+  margin-top: 50px;
+  margin-left: 100px;
+  font-size: 18px;
+  color: black
+}
+.img2
+{
+  position:relative;
+  display:inline-block;
+
+  width: 300px;
+  height: 450px;
+  color:black;
+  margin-top: 15px;
+  margin-left: 100px;
+  font-size: 18px;
+  color: black
+}
+.divg3
+{
+  position:absolute;
+  display:inline-block;
+  width: 400px;
+  height: 400px;
+  margin-left:70px;
+  margin-right: 150px;
+  margin-top: 50px;
+}
+.div12
+{
+  position:absolute;
+  display:inline-block;
+  background-color: #ffa500;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%
+}
+.div11
+{
+  position:absolute;
+  display:inline-block;
+  background-color: #ffa500;
+  margin-top: 200px;
+  width: 400px;
+  height: 200px;
+}
+.div10
+{
+  position:absolute;
+  display:inline-block;
+  background-color: #ffa500;
+  margin-top: 100px;
+  margin-left:57%;
+  width: 400px;
+  height: 200px;
+}
+.div9
+{
+  position:absolute;
+  display:inline-block;
+  background-color: #ffa500;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: 250px
+}
